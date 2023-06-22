@@ -4,7 +4,10 @@
 
 ### `Description `
 ---
-The system under test is a demo of an employee management system, available at https://opensource-demo.orangehrmlive.com/. It provides a platform for evaluating various functionalities, including user interface, data management, role-based permissions, and overall system performance. Manual tests will be performed with at least two different permissions to cover a wide range of system features and perspectives.
+The system under test is a demo of an employee management system, available at
+- https://opensource-demo.orangehrmlive.com/.
+  
+It provides a platform for evaluating various functionalities, including user interface, data management, role-based permissions, and overall system performance. Manual tests will be performed with at least two different permissions to cover a wide range of system features and perspectives.
 
 ### `Main parameters for the tests`
 ---
@@ -13,3 +16,4 @@ The tests will focus on assessing user authentication, access control mechanisms
 ### `Tools used `
 ---
 The primary tools utilized for testing include a web browser (such as Chrome or Firefox) for accessing and interacting with the system, and Practitest, a test management platform, to organize test conditions and test cases collaboratively.
+- https://www.practitest.com
