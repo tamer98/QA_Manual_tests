@@ -11,7 +11,7 @@ It provides a platform for evaluating various functionalities, including user in
 
 ### `Main parameters for the tests`
 ---
-The tests will focus on assessing user authentication, access control mechanisms, role-specific interface elements, data manipulation capabilities, and system responses to varying permission levels. Additionally, "end-to-end" tests will be designed to ensure seamless interaction between different roles within the system.
+The tests focused on assessing user authentication, access control mechanisms, role-specific interface elements, data manipulation capabilities, and system responses to varying permission levels. Additionally, "end-to-end" tests will be designed to ensure seamless interaction between different roles within the system.
 
 ### `Tools used `
 ---
